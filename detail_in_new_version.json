@@ -1,1 +1,6 @@
-HIỆN TẠI CHƯA CÓ TÍNH NĂNG MỚI
+{
+  "Phien_ban": "1.0.1",
+  "Ngay_cap_nhat": "19/04/2026",
+  "Noi_dung": "Cập nhật tính năng trạng thái tài xế trên xe",
+  "Sua_loi": "Sửa lỗi các bảng thông báo bị đè lên nhau"
+}
